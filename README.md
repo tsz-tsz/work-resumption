@@ -7,3 +7,4 @@
   trend.py: calculate the trend of each pixel in nighttime lights images  
   Mosaic.py: raster mosaic  
   resume_rate.py：calculate work resumption index based on nighttime lights data  
+  note: Some operations are done using arcgis 10.6 software
