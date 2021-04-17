@@ -1,4 +1,4 @@
-# work-resumprion
+# work-resumption
   Estimating the level of work resumption in some Chinese cities in 2020 using NPP-VIIRS nighttime light remote sensing data
 # Introduction
   hdf_to_tif_VIIRS.py：Convert daily nighttime lights data and MODIS surface reflectance data from hdf format to raster  
